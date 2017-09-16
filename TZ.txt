@@ -20,8 +20,8 @@ i. ИНН:
 4. Обязательное поле
 ii. Фамилия, обязательное поле
 iii.Имя, обязательное поле
-iv. Город (autocomplete на основании базы http://geobytes.com/free-ajax-
-cities-jsonp-api/ или любой другой открытой базы) , обязательное поле
+iv. Город (autocomplete на основании базы http://geobytes.com/free-ajax-cities-jsonp-api/
+ или любой другой открытой базы) , обязательное поле
 
 
 

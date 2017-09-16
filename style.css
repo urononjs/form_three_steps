@@ -10,7 +10,7 @@
 .submitField {
     margin-left: 110px;
     width: 20%;
-    height: 30px;/* Сдвигаем вправо под поля */
+    height: 30px;
 }
 
 label {
