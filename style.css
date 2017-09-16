@@ -1,10 +1,10 @@
 #textField, #passField {
-    width: 300px; /* Ширина поля */
-    padding: 10px; /* Поля */
-    box-shadow: inset 0 1px 5px rgba(0, 0, 0, 0.2); /* Тень внутри */
-    border: 1px solid #ccc; /* Параметры рамки */
-    color: #ff6d37; /* Цвет текста */
-    padding-left: 30px; /* Расстояние от левого края */
+    width: 300px;
+    padding: 10px;
+    box-shadow: inset 0 1px 5px rgba(0, 0, 0, 0.2);
+    border: 1px solid #ccc;
+    color: #ff6d37;
+    padding-left: 30px;
 }
 
 .submitField {
@@ -14,11 +14,11 @@
 }
 
 label {
-    width: 100px; /* Ширина */
-    text-align: right; /* Выравниваем по правому краю */
-    float: left; /* Выстраиваем элементы рядом */
-    margin-right: 10px; /* Расстояние от текста до текстового поля */
-    line-height: 30px; /* Выравниваем по высоте */
+    width: 100px;
+    text-align: right;
+    float: left;
+    margin-right: 10px;
+    line-height: 30px;
 }
 
 
